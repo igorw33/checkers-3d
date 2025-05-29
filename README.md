@@ -8,7 +8,7 @@ An online checkers game for 2 players.
 Clone the project
 
 ```bash
-  https://github.com/igorw33/checkers-3d.git
+  git clone https://github.com/igorw33/checkers-3d.git
 ```
 
 Go to the project directory
